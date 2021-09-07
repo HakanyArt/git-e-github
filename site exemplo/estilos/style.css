@@ -1,0 +1,22 @@
+{
+font-family: Arial, Helvtica, sans-serif;
+font-size: 16px;
+
+}
+
+body {
+background-color: blueviolet;
+
+}
+
+main { 
+background-color: white;
+width:500px ;
+margin:auto ;
+padding:10px ;
+box-shadow:3px 3 px 5px turquoise;
+
+
+}
+
+
